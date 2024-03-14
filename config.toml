@@ -94,7 +94,7 @@ level = "Fluent"
 
 [[params.language.list]]
 language = "German"
-level = "Rusty"
+level = "Basic"
 
 # Experiences section
 [params.experiences]
